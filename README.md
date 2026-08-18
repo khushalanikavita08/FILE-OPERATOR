@@ -39,7 +39,7 @@ It helps you record and manage your daily thoughts using:
 ## 🧭 Project Structure
 
 The program converts **manual diary writing into a simple, interactive terminal tool** — making it easy to add, view, search, and delete journal entries, all without needing a database or external library.
-![Uploading Copilot_20260818_211456.png…]()
+![Project Flowchart](https://copilot.microsoft.com/th/id/BCO.5d1fbb61-bdfe-44f4-ad66-ca8e53ee3b0b.png)
 
 
 ---
