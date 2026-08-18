@@ -1,6 +1,15 @@
-##**FILE_OPERATOR**
-# JOURNAL-MANAGER
-# 📔 Personal Journal Manager (Python)
+ #**FILE OPERATOR**
+ # JOURNAL-MANAGER
+
+<div align="center">
+
+# 📔 Personal Journal Manager
+
+### *Your Thoughts, Timestamped & Organized — One Entry at a Time* ✨
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-purple) ![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+
+</div>
 
 A **command-line Personal Journal Application** built in Python to add, view, search, and delete journal entries with ease.
 The project demonstrates core Python concepts like file handling, date-time formatting, loops, and conditional logic to build a fully functional journaling tool.
@@ -282,8 +291,8 @@ Feel free to fork this repository or open an issue if you'd like to contribute.
 
 ---
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-purple) ![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
+<div align="center">
 
----
+### 📔 *Made with patience, curiosity, and a lot of `print()` statements* ✨
 
-> 📔 *Turning Everyday Thoughts into an Organized Digital Journal*
+</div>
