@@ -1,13 +1,11 @@
- #**FILE OPERATOR**
- # JOURNAL-MANAGER
+#**FILE OPERATOR**
+# JOURNAL-MANAGER
 
 <div align="center">
 
 # 📔 Personal Journal Manager
 
 ### *Your Thoughts, Timestamped & Organized — One Entry at a Time* ✨
-
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-purple) ![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 </div>
 
@@ -294,5 +292,7 @@ Feel free to fork this repository or open an issue if you'd like to contribute.
 <div align="center">
 
 ### 📔 *Made with patience, curiosity, and a lot of `print()` statements* ✨
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white) ![Status](https://img.shields.io/badge/Status-Active-brightgreen) ![License](https://img.shields.io/badge/License-MIT-purple) ![Made with](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 </div>
