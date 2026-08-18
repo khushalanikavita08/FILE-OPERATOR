@@ -39,7 +39,7 @@ It helps you record and manage your daily thoughts using:
 ## 🧭 Project Structure
 
 The program converts **manual diary writing into a simple, interactive terminal tool** — making it easy to add, view, search, and delete journal entries, all without needing a database or external library.
-![Personal Journal Manager Flowchart](https://copilot.microsoft.com/th/id/BCO.9e336d50-5848-4049-b6c4-0217b4a62a97.png)
+![Personal Journal Manager Flowchart](https://copilot.microsoft.com/th/id/BCO.f13bfb1b-4101-4129-b14a-d074edf0ba01.png)
 
 
 ---
