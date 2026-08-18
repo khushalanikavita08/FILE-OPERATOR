@@ -1,9 +1,5 @@
 #**FILE OPERATOR**
-# JOURNAL-MANAGER
-
-<div align="center">
-
-# 📔 Personal Journal Manager
+ # 📔 Personal Journal Manager
 
 ### *Your Thoughts, Timestamped & Organized — One Entry at a Time* ✨
 
@@ -43,51 +39,8 @@ It helps you record and manage your daily thoughts using:
 ## 🧭 Project Structure
 
 The program converts **manual diary writing into a simple, interactive terminal tool** — making it easy to add, view, search, and delete journal entries, all without needing a database or external library.
-# JOURNAL-MANAGER
+![Uploading Copilot_20260818_211456.png…]()
 
-<div align="center">
-
-# 📔 Personal Journal Manager
-
-### *Your Thoughts, Timestamped & Organized — One Entry at a Time* ✨
-
-</div>
-
-A **command-line Personal Journal Application** built in Python to add, view, search, and delete journal entries with ease.
-The project demonstrates core Python concepts like file handling, date-time formatting, loops, and conditional logic to build a fully functional journaling tool.
-
----
-
-## 📑 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Program Structure](#-program-structure)
-- [Sample Run](#-sample-run)
-- [Key Highlights](#-key-highlights)
-- [How File Handling Powers the Journal](#-how-file-handling-powers-the-journal)
-- [Use Cases](#-use-cases)
-- [Getting Started](#-getting-started)
-- [Future Enhancements](#-future-enhancements)
-- [Feedback](#-feedback)
-- [Contributing](#-contributing)
-- [Author](#-author)
-
----
-
-## 🚀 Project Overview
-
-This project showcases a **Personal Journal Manager built entirely in core Python**.
-It helps you record and manage your daily thoughts using:
-
-- 📝 Journal Entry Text
-- 🕒 Automatic Date & Time Stamp
-- 🔍 Keyword / Date-based Search
-- 🗑️ Full Journal Deletion
-
-## 🧭 Project Structure
-
-The program converts **manual diary writing into a simple, interactive terminal tool** — making it easy to add, view, search, and delete journal entries, all without needing a database or external library.
-<img width="1186" height="610" alt="image" src="https://github.com/user-attachments/assets/27d44cf9-e4f8-495b-a940-87cbcde4c6f7" />
 
 ---
 
