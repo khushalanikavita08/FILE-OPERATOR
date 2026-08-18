@@ -1,4 +1,4 @@
-# FILE-OPERATOR
+##**FILE_OPERATOR**
 # JOURNAL-MANAGER
 # 📔 Personal Journal Manager (Python)
 
@@ -17,7 +17,8 @@ The project demonstrates core Python concepts like file handling, date-time form
 - [Use Cases](#-use-cases)
 - [Getting Started](#-getting-started)
 - [Future Enhancements](#-future-enhancements)
-- [Feedback & Contributions](#-feedback--contributions)
+- [Feedback](#-feedback)
+- [Contributing](#-contributing)
 - [Author](#-author)
 
 ---
@@ -265,9 +266,19 @@ If this project helped you or inspired your own CLI app, consider giving it a �
 
 ---
 
-## 🤝 Feedback & Contributions
+## 💬 Feedback
 
-Suggestions, improvements, and pull requests are always welcome! Feel free to **fork** this repository or open an **issue** if you'd like to contribute.
+Feedback and suggestions are always welcome! If you find a bug or have an idea for improvement, feel free to open an issue or reach out.
+
+Your input genuinely helps make this project better. 🙌
+
+---
+
+## 🤝 Contributing
+
+Suggestions and improvements are always welcome!
+
+Feel free to fork this repository or open an issue if you'd like to contribute.
 
 ---
 
