@@ -254,6 +254,7 @@ Potential improvements for the project:
 ---
 
 ## 💻 Sample Output
+<img width="1024" height="1536" alt="WhatsApp Image 2026-08-18 at 10 59 08 PM" src="https://github.com/user-attachments/assets/f3b1a391-96ef-4877-ba7d-e3acdec584c4" />
 
 ---
 
@@ -268,6 +269,7 @@ If this project helped you or inspired your own CLI app, consider giving it a �
 ## 👤 Author
 
 **Kavita Khushalani** 📍India
+
 
 ---
 
